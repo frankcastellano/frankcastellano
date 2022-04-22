@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankcastellano
 - 👀 I’m interested in software developement focusing on security. 
-- 🌱 I’m currently learning how automate DevOps principles across an enterprise.
+- 🌱 I’m currently learning how to scale automated DevOps principles across enterprises.
 - 💞️ I’m looking to collaborate on security projects using Python. 
 - 📫 How to reach me : https://www.linkedin.com/in/frank-c-6a0a255a/
 
